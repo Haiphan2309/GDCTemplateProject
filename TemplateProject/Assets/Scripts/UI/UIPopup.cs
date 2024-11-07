@@ -1,6 +1,6 @@
 using DG.Tweening;
 using GDC.Managers;
-using NaughtyAttributes;
+using Sirenix.OdinInspector;
 using System.Collections;
 using System.Collections.Generic;
 using TMPro;
@@ -119,12 +119,14 @@ public class UIPopup : MonoBehaviour
     }    
     public virtual void Hide(bool isAnim = true, bool isPlaySound = true)
     {
+        PopupManager.Instance.HideBlackBg();
+        DisableAllButtons();
+
         if (isPlaySound)
             SoundManager.Instance.PlaySound(AudioPlayer.SoundID.SFX_UI_HIDE);
         
         if (isAnim)
         {
-            DisableAllButtons();
             DOTween.Kill(panelRect);
 
             Image[] images = panelRect.GetComponentsInChildren<Image>();

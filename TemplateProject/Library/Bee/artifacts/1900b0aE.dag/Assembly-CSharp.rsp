@@ -119,8 +119,20 @@
 -define:ENABLE_LEGACY_INPUT_MANAGER
 -define:TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
 -define:RH_SerializedDictionary
+-define:ODIN_INSPECTOR
+-define:ODIN_INSPECTOR_3
+-define:ODIN_INSPECTOR_3_1
+-define:ODIN_INSPECTOR_3_2
+-define:ODIN_INSPECTOR_3_3
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
+-r:"Assets/3rd Packages/Sirenix/Assemblies/Sirenix.OdinInspector.Attributes.dll"
+-r:"Assets/3rd Packages/Sirenix/Assemblies/Sirenix.OdinInspector.Editor.dll"
+-r:"Assets/3rd Packages/Sirenix/Assemblies/Sirenix.Reflection.Editor.dll"
+-r:"Assets/3rd Packages/Sirenix/Assemblies/Sirenix.Serialization.Config.dll"
+-r:"Assets/3rd Packages/Sirenix/Assemblies/Sirenix.Serialization.dll"
+-r:"Assets/3rd Packages/Sirenix/Assemblies/Sirenix.Utilities.dll"
+-r:"Assets/3rd Packages/Sirenix/Assemblies/Sirenix.Utilities.Editor.dll"
 -r:"Assets/Plugins/Demigiant/DOTween/DOTween.dll"
 -r:"D:/Unity/2022.3.17f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
 -r:"D:/Unity/2022.3.17f1/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"
@@ -330,9 +342,6 @@
 -r:"Library/PackageCache/com.unity.testtools.codecoverage@1.2.4/lib/ReportGenerator/ReportGeneratorMerged.dll"
 -r:"Library/PackageCache/com.unity.visualscripting@1.9.1/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-firstpass.ref.dll"
--r:"Library/Bee/artifacts/1900b0aE.dag/NaughtyAttributes.Core.ref.dll"
--r:"Library/Bee/artifacts/1900b0aE.dag/NaughtyAttributes.Editor.ref.dll"
--r:"Library/Bee/artifacts/1900b0aE.dag/NaughtyAttributes.Test.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/RotaryHeart.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.ref.dll"
@@ -387,7 +396,6 @@
 "Assets/Scripts/UI/UISetting.cs"
 "Assets/Scripts/Utils/GameUtils.cs"
 "Assets/Scripts/Utils/LogUtils.cs"
-"Assets/Scripts/_Common/Depth.cs"
 "Assets/Scripts/_Common/Enums.cs"
 "Assets/Scripts/_Common/GameConstants.cs"
 "Assets/Scripts/_Common/GameEvents.cs"

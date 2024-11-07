@@ -2,8 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Audio;
-using NaughtyAttributes;
-using GDC.Managers;
+using Sirenix.OdinInspector;
 
 namespace AudioPlayer
 {
@@ -12,7 +11,7 @@ namespace AudioPlayer
     {
         public SoundID Id;
 
-        [ReorderableList]
+        //[ReorderableList]
         public List<AudioClip> Clips;
 
         [BoxGroup("Options")]

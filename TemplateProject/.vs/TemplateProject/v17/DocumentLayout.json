@@ -1,62 +1,82 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Unity\\TemplateProject\\",
+  "WorkspaceRootPath": "D:\\Github\\GDCTemplateProject\\TemplateProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|d:\\unity\\templateproject\\assets\\scripts\\_common\\scenetransition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\_common\\scenetransition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|d:\\github\\gdctemplateproject\\templateproject\\assets\\scripts\\managers\\configmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\configmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|D:\\Unity\\TemplateProject\\assets\\scripts\\ui\\uisetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|D:\\Github\\GDCTemplateProject\\TemplateProject\\assets\\scripts\\sound\\soundclipdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sound\\soundclipdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Github\\GDCTemplateProject\\TemplateProject\\Assets\\Scripts\\_Common\\Depth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\_Common\\Depth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|D:\\Github\\GDCTemplateProject\\TemplateProject\\assets\\scripts\\_common\\soundmapconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\_common\\soundmapconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|D:\\Github\\GDCTemplateProject\\TemplateProject\\assets\\scripts\\ui\\uisetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uisetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|d:\\unity\\templateproject\\assets\\scripts\\ui\\uipopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|D:\\Github\\GDCTemplateProject\\TemplateProject\\assets\\scripts\\ui\\uipopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uipopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|D:\\Unity\\TemplateProject\\assets\\scripts\\sound\\soundid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sound\\soundid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|d:\\unity\\templateproject\\assets\\scripts\\managers\\popupmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\popupmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|D:\\Unity\\TemplateProject\\assets\\scripts\\managers\\loadingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\loadingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|D:\\Unity\\TemplateProject\\assets\\scripts\\config\\tipconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\config\\tipconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|D:\\Unity\\TemplateProject\\assets\\scripts\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|D:\\Unity\\TemplateProject\\assets\\scripts\\_common\\gameevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\_common\\gameevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|D:\\Unity\\TemplateProject\\assets\\scripts\\managers\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|D:\\Unity\\TemplateProject\\assets\\scripts\\sound\\soundmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|D:\\Github\\GDCTemplateProject\\TemplateProject\\assets\\scripts\\sound\\soundmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sound\\soundmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|D:\\Unity\\TemplateProject\\assets\\scripts\\utils\\gameutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utils\\gameutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|D:\\Github\\GDCTemplateProject\\TemplateProject\\assets\\scripts\\managers\\loadingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\loadingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|D:\\Unity\\TemplateProject\\assets\\scripts\\saveloadsystem\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|D:\\Github\\GDCTemplateProject\\TemplateProject\\assets\\scripts\\saveloadsystem\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\saveloadsystem\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|D:\\Unity\\TemplateProject\\assets\\scripts\\saveloadsystem\\saveloadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|D:\\Github\\GDCTemplateProject\\TemplateProject\\assets\\scripts\\_common\\scenetransition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\_common\\scenetransition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|D:\\Github\\GDCTemplateProject\\TemplateProject\\assets\\scripts\\managers\\popupmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\popupmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|D:\\Github\\GDCTemplateProject\\TemplateProject\\assets\\scripts\\managers\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|D:\\Github\\GDCTemplateProject\\TemplateProject\\assets\\scripts\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|D:\\Github\\GDCTemplateProject\\TemplateProject\\assets\\scripts\\saveloadsystem\\saveloadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\saveloadsystem\\saveloadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Github\\GDCTemplateProject\\TemplateProject\\Assets\\3rd Packages\\Sirenix\\Odin Inspector\\Modules\\Unity.Mathematics\\MathematicsDrawers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\3rd Packages\\Sirenix\\Odin Inspector\\Modules\\Unity.Mathematics\\MathematicsDrawers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|D:\\Github\\GDCTemplateProject\\TemplateProject\\assets\\scripts\\sound\\soundid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sound\\soundid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|D:\\Github\\GDCTemplateProject\\TemplateProject\\assets\\scripts\\config\\tipconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\config\\tipconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|D:\\Github\\GDCTemplateProject\\TemplateProject\\assets\\scripts\\_common\\gameevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\_common\\gameevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|D:\\Github\\GDCTemplateProject\\TemplateProject\\assets\\scripts\\utils\\gameutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600A1EA2-5390-8941-983E-224805C036F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utils\\gameutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,102 +86,188 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SceneTransition.cs",
-              "DocumentMoniker": "D:\\Unity\\TemplateProject\\Assets\\Scripts\\_Common\\SceneTransition.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\_Common\\SceneTransition.cs",
-              "ToolTip": "D:\\Unity\\TemplateProject\\Assets\\Scripts\\_Common\\SceneTransition.cs",
-              "RelativeToolTip": "Assets\\Scripts\\_Common\\SceneTransition.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAgwBEAAAAvAAAA",
+              "Title": "ConfigManager.cs",
+              "DocumentMoniker": "D:\\Github\\GDCTemplateProject\\TemplateProject\\Assets\\Scripts\\Managers\\ConfigManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\ConfigManager.cs",
+              "ToolTip": "D:\\Github\\GDCTemplateProject\\TemplateProject\\Assets\\Scripts\\Managers\\ConfigManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\ConfigManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T09:36:34.203Z",
+              "WhenOpened": "2024-11-07T03:21:58.684Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SoundMapConfig.cs",
+              "DocumentMoniker": "D:\\Github\\GDCTemplateProject\\TemplateProject\\Assets\\Scripts\\_Common\\SoundMapConfig.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\_Common\\SoundMapConfig.cs",
+              "ToolTip": "D:\\Github\\GDCTemplateProject\\TemplateProject\\Assets\\Scripts\\_Common\\SoundMapConfig.cs",
+              "RelativeToolTip": "Assets\\Scripts\\_Common\\SoundMapConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T03:20:24.526Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UIPopup.cs",
-              "DocumentMoniker": "D:\\Unity\\TemplateProject\\Assets\\Scripts\\UI\\UIPopup.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIPopup.cs",
-              "ToolTip": "D:\\Unity\\TemplateProject\\Assets\\Scripts\\UI\\UIPopup.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UI\\UIPopup.cs",
-              "ViewState": "AQIAAGkAAAAAAAAAAAAYwHcAAAA/AAAA",
+              "Title": "Depth.cs",
+              "DocumentMoniker": "D:\\Github\\GDCTemplateProject\\TemplateProject\\Assets\\Scripts\\_Common\\Depth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\_Common\\Depth.cs",
+              "ToolTip": "D:\\Github\\GDCTemplateProject\\TemplateProject\\Assets\\Scripts\\_Common\\Depth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\_Common\\Depth.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T08:54:59.943Z",
+              "WhenOpened": "2024-11-07T03:20:18.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SoundClipData.cs",
+              "DocumentMoniker": "D:\\Github\\GDCTemplateProject\\TemplateProject\\Assets\\Scripts\\Sound\\SoundClipData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sound\\SoundClipData.cs",
+              "ToolTip": "D:\\Github\\GDCTemplateProject\\TemplateProject\\Assets\\Scripts\\Sound\\SoundClipData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sound\\SoundClipData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T03:18:00.601Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TipConfig.cs",
-              "DocumentMoniker": "D:\\Unity\\TemplateProject\\Assets\\Scripts\\Config\\TipConfig.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Config\\TipConfig.cs",
-              "ToolTip": "D:\\Unity\\TemplateProject\\Assets\\Scripts\\Config\\TipConfig.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Config\\TipConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T08:43:26.915Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "GameEvents.cs",
-              "DocumentMoniker": "D:\\Unity\\TemplateProject\\Assets\\Scripts\\_Common\\GameEvents.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\_Common\\GameEvents.cs",
-              "ToolTip": "D:\\Unity\\TemplateProject\\Assets\\Scripts\\_Common\\GameEvents.cs",
-              "RelativeToolTip": "Assets\\Scripts\\_Common\\GameEvents.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAnwBgAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T03:54:55.367Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "GameManager.cs",
-              "DocumentMoniker": "D:\\Unity\\TemplateProject\\Assets\\Scripts\\Managers\\GameManager.cs",
+              "DocumentMoniker": "D:\\Github\\GDCTemplateProject\\TemplateProject\\Assets\\Scripts\\Managers\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\GameManager.cs",
-              "ToolTip": "D:\\Unity\\TemplateProject\\Assets\\Scripts\\Managers\\GameManager.cs",
+              "ToolTip": "D:\\Github\\GDCTemplateProject\\TemplateProject\\Assets\\Scripts\\Managers\\GameManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\Managers\\GameManager.cs",
-              "ViewState": "AQIAAHsAAAAAAAAAAAAAAIIAAAAzAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIIAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-01T03:53:23.43Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "SoundManager.cs",
-              "DocumentMoniker": "D:\\Unity\\TemplateProject\\Assets\\Scripts\\Managers\\SoundManager.cs",
+              "DocumentMoniker": "D:\\Github\\GDCTemplateProject\\TemplateProject\\Assets\\Scripts\\Managers\\SoundManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\SoundManager.cs",
-              "ToolTip": "D:\\Unity\\TemplateProject\\Assets\\Scripts\\Managers\\SoundManager.cs",
+              "ToolTip": "D:\\Github\\GDCTemplateProject\\TemplateProject\\Assets\\Scripts\\Managers\\SoundManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\Managers\\SoundManager.cs",
-              "ViewState": "AQIAAHUCAAAAAAAAAAAQwIMCAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIMCAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-01T03:49:52.09Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UISetting.cs",
-              "DocumentMoniker": "D:\\Unity\\TemplateProject\\Assets\\Scripts\\UI\\UISetting.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UISetting.cs",
-              "ToolTip": "D:\\Unity\\TemplateProject\\Assets\\Scripts\\UI\\UISetting.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UI\\UISetting.cs",
-              "ViewState": "AQIAADQAAAAAAAAAAAAuwEIAAABMAAAA",
+              "DocumentIndex": 15,
+              "Title": "SoundID.cs",
+              "DocumentMoniker": "D:\\Github\\GDCTemplateProject\\TemplateProject\\Assets\\Scripts\\Sound\\SoundID.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sound\\SoundID.cs",
+              "ToolTip": "D:\\Github\\GDCTemplateProject\\TemplateProject\\Assets\\Scripts\\Sound\\SoundID.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sound\\SoundID.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBcAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T09:49:31.189Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T09:29:49.182Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 6,
+              "Title": "SoundMap.cs",
+              "DocumentMoniker": "D:\\Github\\GDCTemplateProject\\TemplateProject\\Assets\\Scripts\\Sound\\SoundMap.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sound\\SoundMap.cs",
+              "ToolTip": "D:\\Github\\GDCTemplateProject\\TemplateProject\\Assets\\Scripts\\Sound\\SoundMap.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sound\\SoundMap.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T09:28:34.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoadingManager.cs",
+              "DocumentMoniker": "D:\\Github\\GDCTemplateProject\\TemplateProject\\Assets\\Scripts\\Managers\\LoadingManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\LoadingManager.cs",
+              "ToolTip": "D:\\Github\\GDCTemplateProject\\TemplateProject\\Assets\\Scripts\\Managers\\LoadingManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\LoadingManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T09:22:08.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PopupManager.cs",
+              "DocumentMoniker": "D:\\Github\\GDCTemplateProject\\TemplateProject\\Assets\\Scripts\\Managers\\PopupManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\PopupManager.cs",
+              "ToolTip": "D:\\Github\\GDCTemplateProject\\TemplateProject\\Assets\\Scripts\\Managers\\PopupManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\PopupManager.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwCYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T03:56:51.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SceneTransition.cs",
+              "DocumentMoniker": "D:\\Github\\GDCTemplateProject\\TemplateProject\\Assets\\Scripts\\_Common\\SceneTransition.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\_Common\\SceneTransition.cs",
+              "ToolTip": "D:\\Github\\GDCTemplateProject\\TemplateProject\\Assets\\Scripts\\_Common\\SceneTransition.cs",
+              "RelativeToolTip": "Assets\\Scripts\\_Common\\SceneTransition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T09:36:34.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameData.cs",
+              "DocumentMoniker": "D:\\Github\\GDCTemplateProject\\TemplateProject\\Assets\\Scripts\\SaveLoadSystem\\GameData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SaveLoadSystem\\GameData.cs",
+              "ToolTip": "D:\\Github\\GDCTemplateProject\\TemplateProject\\Assets\\Scripts\\SaveLoadSystem\\GameData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SaveLoadSystem\\GameData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T09:18:39.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UIPopup.cs",
+              "DocumentMoniker": "D:\\Github\\GDCTemplateProject\\TemplateProject\\Assets\\Scripts\\UI\\UIPopup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIPopup.cs",
+              "ToolTip": "D:\\Github\\GDCTemplateProject\\TemplateProject\\Assets\\Scripts\\UI\\UIPopup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UIPopup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T08:54:59.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UISetting.cs",
+              "DocumentMoniker": "D:\\Github\\GDCTemplateProject\\TemplateProject\\Assets\\Scripts\\UI\\UISetting.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UISetting.cs",
+              "ToolTip": "D:\\Github\\GDCTemplateProject\\TemplateProject\\Assets\\Scripts\\UI\\UISetting.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UISetting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T09:49:31.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "GameUtils.cs",
-              "DocumentMoniker": "D:\\Unity\\TemplateProject\\Assets\\Scripts\\Utils\\GameUtils.cs",
+              "DocumentMoniker": "D:\\Github\\GDCTemplateProject\\TemplateProject\\Assets\\Scripts\\Utils\\GameUtils.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Utils\\GameUtils.cs",
-              "ToolTip": "D:\\Unity\\TemplateProject\\Assets\\Scripts\\Utils\\GameUtils.cs",
+              "ToolTip": "D:\\Github\\GDCTemplateProject\\TemplateProject\\Assets\\Scripts\\Utils\\GameUtils.cs",
               "RelativeToolTip": "Assets\\Scripts\\Utils\\GameUtils.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -169,77 +275,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SoundID.cs",
-              "DocumentMoniker": "D:\\Unity\\TemplateProject\\Assets\\Scripts\\Sound\\SoundID.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Sound\\SoundID.cs",
-              "ToolTip": "D:\\Unity\\TemplateProject\\Assets\\Scripts\\Sound\\SoundID.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Sound\\SoundID.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBcAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T09:29:49.182Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SoundMap.cs",
-              "DocumentMoniker": "D:\\Unity\\TemplateProject\\Assets\\Scripts\\Sound\\SoundMap.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Sound\\SoundMap.cs",
-              "ToolTip": "D:\\Unity\\TemplateProject\\Assets\\Scripts\\Sound\\SoundMap.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Sound\\SoundMap.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T09:28:34.291Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LoadingManager.cs",
-              "DocumentMoniker": "D:\\Unity\\TemplateProject\\Assets\\Scripts\\Managers\\LoadingManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\LoadingManager.cs",
-              "ToolTip": "D:\\Unity\\TemplateProject\\Assets\\Scripts\\Managers\\LoadingManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Managers\\LoadingManager.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAYwEQAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T09:22:08.499Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PopupManager.cs",
-              "DocumentMoniker": "D:\\Unity\\TemplateProject\\Assets\\Scripts\\Managers\\PopupManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\PopupManager.cs",
-              "ToolTip": "D:\\Unity\\TemplateProject\\Assets\\Scripts\\Managers\\PopupManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Managers\\PopupManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T03:56:51.97Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "GameData.cs",
-              "DocumentMoniker": "D:\\Unity\\TemplateProject\\Assets\\Scripts\\SaveLoadSystem\\GameData.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\SaveLoadSystem\\GameData.cs",
-              "ToolTip": "D:\\Unity\\TemplateProject\\Assets\\Scripts\\SaveLoadSystem\\GameData.cs",
-              "RelativeToolTip": "Assets\\Scripts\\SaveLoadSystem\\GameData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T09:18:39.064Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 13,
               "Title": "SaveLoadManager.cs",
-              "DocumentMoniker": "D:\\Unity\\TemplateProject\\Assets\\Scripts\\SaveLoadSystem\\SaveLoadManager.cs",
+              "DocumentMoniker": "D:\\Github\\GDCTemplateProject\\TemplateProject\\Assets\\Scripts\\SaveLoadSystem\\SaveLoadManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SaveLoadSystem\\SaveLoadManager.cs",
-              "ToolTip": "D:\\Unity\\TemplateProject\\Assets\\Scripts\\SaveLoadSystem\\SaveLoadManager.cs",
+              "ToolTip": "D:\\Github\\GDCTemplateProject\\TemplateProject\\Assets\\Scripts\\SaveLoadSystem\\SaveLoadManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\SaveLoadSystem\\SaveLoadManager.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAkwB0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-11T09:16:03.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GameEvents.cs",
+              "DocumentMoniker": "D:\\Github\\GDCTemplateProject\\TemplateProject\\Assets\\Scripts\\_Common\\GameEvents.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\_Common\\GameEvents.cs",
+              "ToolTip": "D:\\Github\\GDCTemplateProject\\TemplateProject\\Assets\\Scripts\\_Common\\GameEvents.cs",
+              "RelativeToolTip": "Assets\\Scripts\\_Common\\GameEvents.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAnwBgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T03:54:55.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TipConfig.cs",
+              "DocumentMoniker": "D:\\Github\\GDCTemplateProject\\TemplateProject\\Assets\\Scripts\\Config\\TipConfig.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Config\\TipConfig.cs",
+              "ToolTip": "D:\\Github\\GDCTemplateProject\\TemplateProject\\Assets\\Scripts\\Config\\TipConfig.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Config\\TipConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T08:43:26.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MathematicsDrawers.cs",
+              "DocumentMoniker": "D:\\Github\\GDCTemplateProject\\TemplateProject\\Assets\\3rd Packages\\Sirenix\\Odin Inspector\\Modules\\Unity.Mathematics\\MathematicsDrawers.cs",
+              "RelativeDocumentMoniker": "Assets\\3rd Packages\\Sirenix\\Odin Inspector\\Modules\\Unity.Mathematics\\MathematicsDrawers.cs",
+              "ToolTip": "D:\\Github\\GDCTemplateProject\\TemplateProject\\Assets\\3rd Packages\\Sirenix\\Odin Inspector\\Modules\\Unity.Mathematics\\MathematicsDrawers.cs",
+              "RelativeToolTip": "Assets\\3rd Packages\\Sirenix\\Odin Inspector\\Modules\\Unity.Mathematics\\MathematicsDrawers.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T03:10:27.482Z"
             }
           ]
         }

@@ -3,11 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
 using GDC.Events;
-using GDC.Enums;
-using NaughtyAttributes;
 using UnityEngine.UI;
-using DG.Tweening;
-using UnityEngine.Tilemaps;
 
 namespace GDC.Managers
 {

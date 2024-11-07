@@ -2,8 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-using GDC.Managers;
-using NaughtyAttributes;
+using Sirenix.OdinInspector;
 
 namespace GDC.Managers
 {

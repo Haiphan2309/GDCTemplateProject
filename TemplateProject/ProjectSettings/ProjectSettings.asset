@@ -643,7 +643,7 @@ PlayerSettings:
   webGLMemoryGeometricGrowthCap: 96
   webGLPowerPreference: 2
   scriptingDefineSymbols:
-    Standalone: RH_SerializedDictionary
+    Standalone: RH_SerializedDictionary;ODIN_INSPECTOR;ODIN_INSPECTOR_3;ODIN_INSPECTOR_3_1;ODIN_INSPECTOR_3_2;ODIN_INSPECTOR_3_3
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend: {}

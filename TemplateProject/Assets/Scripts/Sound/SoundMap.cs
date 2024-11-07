@@ -5,7 +5,7 @@ using System;
 #if UNITY_EDITOR
 using UnityEditor;
 #endif
-using NaughtyAttributes;
+using Sirenix.OdinInspector;
 using Extensions;
 
 public enum SoundType
