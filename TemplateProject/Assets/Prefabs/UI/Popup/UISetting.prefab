@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5768582529041421389}
   - component: {fileID: 610448519433539750}
+  - component: {fileID: 2322123609758896916}
   m_Layer: 5
   m_Name: UISetting
   m_TagString: Untagged
@@ -49,6 +50,25 @@ CanvasGroup:
   m_Interactable: 1
   m_BlocksRaycasts: 1
   m_IgnoreParentGroups: 0
+--- !u!114 &2322123609758896916
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 236370246580276171}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e92c9265120b52448ddc4c52919b65e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  panelRect: {fileID: 5768582529041421389}
+  isCannotHideOutside: 0
+  menuBtn: {fileID: 1649299091059276564}
+  hideButton: {fileID: 2661906796239381806}
+  musicSlider: {fileID: 5749984660724218572}
+  soundSlider: {fileID: 1356084840133836699}
+  maxVolume: 10
 --- !u!1 &254718429362633341
 GameObject:
   m_ObjectHideFlags: 0
@@ -833,7 +853,7 @@ GameObject:
   - component: {fileID: 1329402197952418411}
   - component: {fileID: 1649299091059276564}
   m_Layer: 5
-  m_Name: Button
+  m_Name: MenuButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

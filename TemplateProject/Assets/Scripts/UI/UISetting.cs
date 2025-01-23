@@ -6,34 +6,21 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class UISetting : UIPopup
+public class UISetting : UIBasePopup
 {
-    [SerializeField] private Button menuBtn, replayBtn, hideButton;
+    [SerializeField] private Button menuBtn, hideButton;
     [SerializeField] private Slider musicSlider, soundSlider;
-    private Coroutine hideCor;
     [SerializeField] private int maxVolume = 10;
-    private bool isAreadySetup;
 
     [Button]
     public override void Show()
     {
         base.Show();
-
-        if (isAreadySetup == false)
-        {
-            isAreadySetup = true;
-            Setup();
-        }
-
-        if (hideCor != null)
-        {
-            StopCoroutine(hideCor);
-        }
+        Setup();
     }
     private void Setup()
     {
         menuBtn.onClick.AddListener(OnMenu);
-        replayBtn.onClick.AddListener(OnReplay);
         hideButton.onClick.AddListener(Hide);
 
         musicSlider.onValueChanged.AddListener(delegate { OnChangeMusicVolume(); });
@@ -58,21 +45,6 @@ public class UISetting : UIPopup
         //    {
         //        //    //GDC.Managers.GameManager.Instance.SetInitData(levelIndex);
         //        GameManager.Instance.LoadMenuLevel(curChapterIndex);
-        //    },
-        //    true);
-    }
-
-    public void OnReplay()
-    {
-        //int currentChapterIndex = GameplayManager.Instance.chapterData.id;
-        //int currentLevelIndex = GameplayManager.Instance.levelData.id;
-        //GameManager.Instance.LoadSceneManually(
-        //    GDC.Enums.SceneType.GAMEPLAY,
-        //    GDC.Enums.TransitionType.IN,
-        //    SoundType.NONE,
-        //    cb: () =>
-        //    {
-        //        GDC.Managers.GameManager.Instance.SetInitData(currentChapterIndex, currentLevelIndex);
         //    },
         //    true);
     }

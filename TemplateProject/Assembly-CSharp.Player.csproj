@@ -97,10 +97,10 @@
     <Compile Include="Assets\3rd Packages\Rotary Heart\SerializableDictionaryLite\Example\NestedDB.cs" />
     <Compile Include="Assets\Scripts\Managers\LoadingManager.cs" />
     <Compile Include="Assets\Scripts\_Common\OcllusionCulling.cs" />
+    <Compile Include="Assets\Scripts\UI\UIBasePopup.cs" />
     <Compile Include="Assets\Scripts\Managers\ConfigManager.cs" />
     <Compile Include="Assets\Scripts\_Common\GameEvents.cs" />
     <Compile Include="Assets\3rd Packages\Rotary Heart\SerializableDictionaryLite\ReorderableList\ReorderableList.cs" />
-    <Compile Include="Assets\Scripts\UI\UIPopup.cs" />
     <Compile Include="Assets\Scripts\Sound\AudioSourceController.cs" />
   </ItemGroup>
   <ItemGroup>

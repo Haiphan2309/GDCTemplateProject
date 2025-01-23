@@ -392,7 +392,7 @@
 "Assets/Scripts/Sound/SoundClipData.cs"
 "Assets/Scripts/Sound/SoundID.cs"
 "Assets/Scripts/Sound/SoundMap.cs"
-"Assets/Scripts/UI/UIPopup.cs"
+"Assets/Scripts/UI/UIBasePopup.cs"
 "Assets/Scripts/UI/UISetting.cs"
 "Assets/Scripts/Utils/GameUtils.cs"
 "Assets/Scripts/Utils/LogUtils.cs"
