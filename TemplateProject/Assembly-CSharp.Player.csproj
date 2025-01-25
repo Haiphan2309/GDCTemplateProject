@@ -74,14 +74,12 @@
     <Compile Include="Assets\3rd Packages\SerializableDictionary\SerializableDictionary.cs" />
     <Compile Include="Assets\Scripts\_Common\GameConstants.cs" />
     <Compile Include="Assets\Scripts\_Common\Pool.cs" />
-    <Compile Include="Assets\Scripts\_Common\Patrol.cs" />
     <Compile Include="Assets\Scripts\SaveLoadSystem\GameData.cs" />
     <Compile Include="Assets\Scripts\Utils\LogUtils.cs" />
     <Compile Include="Assets\Scripts\Sound\MusicController.cs" />
     <Compile Include="Assets\Scripts\_Common\SoundMapConfig.cs" />
     <Compile Include="Assets\Scripts\SetCursor.cs" />
     <Compile Include="Assets\Scripts\Config\TipConfig.cs" />
-    <Compile Include="Assets\Scripts\_Common\StreetPatrolConfig.cs" />
     <Compile Include="Assets\Scripts\Sound\SoundClipData.cs" />
     <Compile Include="Assets\Scripts\Utils\GameUtils.cs" />
     <Compile Include="Assets\3rd Packages\Rotary Heart\SerializableDictionaryLite\IDAttribute.cs" />

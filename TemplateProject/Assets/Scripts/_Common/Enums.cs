@@ -1,12 +1,6 @@
 
 namespace GDC.Enums
 {
-    public enum DialogueState
-    {
-        HEAD,
-        BRANCH,
-        TAIL,
-    }
     public enum TransitionType
     {
         NONE,

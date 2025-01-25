@@ -11,7 +11,7 @@ namespace GDC.Managers
         public SceneConfig SceneConfig;
         //public ItemsConfig ItemsConfig;
         //public MapConfig MapConfig;
-        public StreetPatrolConfig PatrolConfig;
+        //public StreetPatrolConfig PatrolConfig;
         //public PlayerStatConfig PlayerStatConfig;
         //public CitizenConfig CitizenConfig;
         void Awake()

@@ -403,12 +403,10 @@
 "Assets/Scripts/_Common/Helper/Helper.cs"
 "Assets/Scripts/_Common/MonoSingleton.cs"
 "Assets/Scripts/_Common/OcllusionCulling.cs"
-"Assets/Scripts/_Common/Patrol.cs"
 "Assets/Scripts/_Common/Pool.cs"
 "Assets/Scripts/_Common/SceneConfig.cs"
 "Assets/Scripts/_Common/SceneTransition.cs"
 "Assets/Scripts/_Common/SoundMapConfig.cs"
-"Assets/Scripts/_Common/StreetPatrolConfig.cs"
 "Assets/Scripts/_Common/UIUtils.cs"
 -langversion:9.0
 
