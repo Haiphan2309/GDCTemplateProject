@@ -23,7 +23,7 @@ public class PopupManager : MonoBehaviour
     [SerializeField] private UISetting uiSettingPrefab;
     //[SerializeField] private UIShopManager uiShopManagerPrefab;
     //[SerializeField] private UICredit uiCredit;
-    
+
     private void Awake()
     {
         if (Instance != null)
@@ -49,6 +49,11 @@ public class PopupManager : MonoBehaviour
         }
     }
 
+    public UIBasePopup GetCurrentPopup()
+    {
+        if (popupStack.Count > 0) return null;
+        return popupStack.Peek();
+    }
     private void TryHideCurrentPopup()
     {
         if (popupStack.Count == 0) return;
