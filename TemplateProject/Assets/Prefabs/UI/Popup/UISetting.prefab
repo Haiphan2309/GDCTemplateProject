@@ -62,8 +62,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4e92c9265120b52448ddc4c52919b65e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  panelRect: {fileID: 5768582529041421389}
-  isCannotHideOutside: 0
+  isHideWhenTouchOutside: 1
   menuBtn: {fileID: 1649299091059276564}
   hideButton: {fileID: 2661906796239381806}
   musicSlider: {fileID: 5749984660724218572}

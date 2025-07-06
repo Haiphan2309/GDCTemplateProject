@@ -1,8 +1,5 @@
 using GDC.Managers;
 using Sirenix.OdinInspector;
-using System.Collections;
-using System.Collections.Generic;
-using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -13,15 +10,15 @@ public class UISetting : UIBasePopup
     [SerializeField] private int maxVolume = 10;
 
     [Button]
-    public override void Show()
+    public override void Show(bool isPlaySound = true, bool isPlayAnimation = true)
     {
-        base.Show();
+        base.Show(isPlaySound, isPlayAnimation);
         Setup();
     }
     private void Setup()
     {
         menuBtn.onClick.AddListener(OnMenu);
-        hideButton.onClick.AddListener(Hide);
+        hideButton.onClick.AddListener(() => Hide());
 
         musicSlider.onValueChanged.AddListener(delegate { OnChangeMusicVolume(); });
         soundSlider.onValueChanged.AddListener(delegate { OnChangeSoundVolume(); });
@@ -30,9 +27,9 @@ public class UISetting : UIBasePopup
         musicSlider.value = SoundManager.Instance.GetMusicVolume() * maxVolume;
         soundSlider.value = SoundManager.Instance.GetSFXVolume() * maxVolume;
     }
-    public override void Hide()
+    public override void Hide(bool isPlaySound = true, bool isPlayAnimation = true)
     {
-        base.Hide();
+        base.Hide(isPlaySound, isPlayAnimation);
     }
     public void OnMenu()
     {

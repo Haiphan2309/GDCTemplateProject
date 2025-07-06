@@ -51,14 +51,25 @@ public class PopupManager : MonoBehaviour
 
     public UIBasePopup GetCurrentPopup()
     {
-        if (popupStack.Count > 0) return null;
+        if (popupStack.Count > 0)
+        {
+            return null;
+        }
+
         return popupStack.Peek();
     }
-    private void TryHideCurrentPopup()
+    private void TryHideCurrentPopup() //Hide by touch outside the popup
     {
-        if (popupStack.Count == 0) return;
+        if (popupStack.Count == 0)
+        {
+            return;
+        }
 
-        if (popupStack.Peek().isCannotHideOutside) return;
+        if (!popupStack.Peek().IsHideWhenTouchOutside)
+        {
+            return;
+        }
+
         popupStack.Peek().Hide();
     }
 
@@ -70,14 +81,14 @@ public class PopupManager : MonoBehaviour
             popupStack.Pop();
             if (popupStack.Count > 0)
             {
-                if (popupStack.Peek().isCannotHideOutside)
+                if (popupStack.Peek().IsHideWhenTouchOutside)
                 {
-                    touchOutsideText.gameObject.SetActive(false);
+                    touchOutsideText.gameObject.SetActive(true);
+                    touchOutsideText.transform.SetAsLastSibling();           
                 }
                 else
                 {
-                    touchOutsideText.gameObject.SetActive(true);
-                    touchOutsideText.transform.SetAsLastSibling();
+                    touchOutsideText.gameObject.SetActive(false);
                 }
             }
             else
@@ -89,14 +100,14 @@ public class PopupManager : MonoBehaviour
     private void PushStack(UIBasePopup uIBasePopup)
     {
         popupStack.Push(uIBasePopup);
-        if (uIBasePopup.isCannotHideOutside)
+        if (uIBasePopup.IsHideWhenTouchOutside)
         {
-            touchOutsideText.gameObject.SetActive(false);
+            touchOutsideText.gameObject.SetActive(true);
+            touchOutsideText.transform.SetAsLastSibling();         
         }
         else
         {
-            touchOutsideText.gameObject.SetActive(true);
-            touchOutsideText.transform.SetAsLastSibling();
+            touchOutsideText.gameObject.SetActive(false);
         }
     }
     public void ShowBlackBg()
